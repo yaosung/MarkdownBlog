@@ -2,7 +2,7 @@
 {
     "articles": [
         {
-            "filename": "class/my_first_article.md",
+            "filename": "class/first article.md",
             "title": "Test article",
             "type" : "Long Term Relationship",
             "date": "2020-02-11"
