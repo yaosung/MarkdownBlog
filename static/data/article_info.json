@@ -1,16 +1,23 @@
+
 {
     "articles": [
         {
-            "filename": "class/first article.md",
-            "title": "First article",
-            "type" : "Type 1",
-            "date": "1970-01-01"
+            "filename": "class/my_first_article.md",
+            "title": "Test article",
+            "type" : "Long Term Relationship",
+            "date": "2020-02-11"
         },
         {
-            "filename": "class/second article.md",
-            "title": "Second article",
-            "type" : "Type 2",
-            "date": "1970-01-01"
+            "filename": "Kafka API.md",
+            "title": "Kafka 0.11.0.0 sample",
+            "type" : "Kafka",
+            "date": "2017-08-25"
+        },
+         {
+            "filename": "Zhaoyinwangluo.md",
+            "title": "招银网络笔试",
+            "type" : "Interview",
+            "date": "2017-09-11"
         }
     ]
 }
