@@ -1,11 +1,12 @@
 ## SONG YAO
 > 
 - sy94922@gmail.com
+- China Merchants Bank,Shenzhen,China
 - https://yaosung.github.io
 
 ### EDUCATION
 > **University of Chinese Academy of Sciences (Institute of Electronics, Chinese Academy of Sciences)**  
-- Sept.2015 - Now (Beijing, China)   
+- Sept.2015 - Jun.2018 (Beijing, China)   
 - Key Laboratory of Technology in Geo-spatial Information Processing and Application System 
 - Master of Signal and Information Processing
 
@@ -27,10 +28,10 @@
 
 ### HONORS & AWARDS
 > 
-- National Scholarship (Top 2%)
-- National Encouragement Scholarship Twice (Top 2%)
-- "Merit Student" of University of Chinese Academy of Sciences
-- "Excellent League Member" of UESTC
+- National Scholarship
+- National Encouragement Scholarship
+- Merit Student of University of Chinese Academy of Sciences
+- Excellent League Member of UESTC
 - National English Competition for College Students (NECCS) National Second Prize
 
 
